@@ -1,4 +1,4 @@
-# JINXZ-HUB
+# JINXZ HUB
 ## Introduction
 
 - Hello!
@@ -7,7 +7,7 @@
 - If you enjoy my hub please give me a star 🥰🥰
 
 ### Status
-Status = Not Working - Missing Files
+Status = Unaware - Needs Testing
 
 ## Instructions
 1.
