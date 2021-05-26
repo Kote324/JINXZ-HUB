@@ -6,8 +6,8 @@
 - JINXZHub is my first ever script hub and will be updated whenever I make more scripts
 - If you enjoy my hub please give me a star 🥰🥰
 
-### Status
-Status = Unaware - Needs Testing
+## Status
+Status = NOT WORKING - CRASHES ROBLOX
 
 ## Instructions
 1. Run your executer | If you don't have one you can get one here: https://github.com/NotJINXZ/How-to-install-KRNL
