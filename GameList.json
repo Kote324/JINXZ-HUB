@@ -1,1 +1,30 @@
-
+{
+    "286090429": {
+        "ScriptName": "Arsenal.lua",
+        "GameName": "Arsenal"
+    },
+    "301549746": {
+        "ScriptName": "CounterBlox.lua",
+        "GameName": "Counter Blox"
+    },
+    "1167791961": {
+        "ScriptName": "KnifeSimulator.lua",
+        "GameName": "Knife Simulator"
+    },
+    "1204176775": {
+        "ScriptName": "GunSimulator.lua",
+        "GameName": "Gun Simulator"
+    },
+    "606849621": {
+        "ScriptName": "JailBreakAutoArrest.lua",
+        "GameName": "JailBreak Auto Arrest"
+    },
+    "2986677229": {
+        "ScriptName": "GiantSimAutoFarm.lua",
+        "GameName": "Giant Simulator Auto Farm"
+    },
+    "2753915549": {
+        "ScriptName": "BFGUI.lua",
+        "GameName": "Blox Fruits Auto Farm GUI"
+    }
+}
