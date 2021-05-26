@@ -1,10 +1,10 @@
 # JINXZ-HUB
 ## Introduction
 
-Hello!
-Welcome to JINXZHub!!
-JINXZHub is my first ever script hub and will be updated whenever I make more scripts
-If you enjoy my hub please give me a star 🥰🥰
+- Hello!
+- Welcome to JINXZHub!!
+- JINXZHub is my first ever script hub and will be updated whenever I make more scripts
+- If you enjoy my hub please give me a star 🥰🥰
 
 ### Status
 Status = Not Working - Missing Files
@@ -22,10 +22,10 @@ Status = Not Working - Missing Files
 10.
 
 ### Socials
-Check out my other scripts: https://github.com/NotJINXZ?tab=repositories
-Join my discord: https://dsc.gg/jinxz
-Add me on Discord: Not JINXZ#9925
-My linktree: https://linktr.ee/jinxz
+- Check out my other scripts: https://github.com/NotJINXZ?tab=repositories
+- Join my discord: https://dsc.gg/jinxz
+- Add me on Discord: Not JINXZ#9925
+- My linktree: https://linktr.ee/jinxz
 
 ### Notes:
-None Yet!
+- None Yet!
