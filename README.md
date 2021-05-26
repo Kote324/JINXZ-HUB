@@ -10,16 +10,13 @@
 Status = Unaware - Needs Testing
 
 ## Instructions
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Run your executer | If you don't have one you can get one here: https://github.com/NotJINXZ/How-to-install-KRNL
+2. Run Roblox | You can find a list of the games for our hub here: https://github.com/NotJINXZ/JINXZ-HUB/blob/main/GameList.json
+3. Inject Executer
+4. Grab our script from here: https://github.com/NotJINXZ/JINXZ-HUB/blob/main/script.lua
+5. Execute Script
+6. Enjoy!!
+7. If you have any problems contact me on discord or submit an issue here: https://github.com/NotJINXZ/JINXZ-HUB/issues
 
 ### Socials
 - Check out my other scripts: https://github.com/NotJINXZ?tab=repositories
